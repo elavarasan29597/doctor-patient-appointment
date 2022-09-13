@@ -66,10 +66,14 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ## setup Command 
-composer Update
-php artisan migrate:fresh --seed
-php artisan optimize
-php artisan serve
+
+   composer Update
+   
+   php artisan migrate:fresh --seed
+   
+   php artisan optimize
+   
+   php artisan serve
 
 
 ## Page URL 
