@@ -19,8 +19,3 @@ Route::get('/', function () {
 });
 
 Route::resource('/doctors', DoctorController::class);
-
-
-Route::get('/test', function () {
-    return "test";
-});
